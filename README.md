@@ -4,7 +4,7 @@
 <div align="center">
 
   <h1>Hi, I'm Sejal Rai 👋</h1>
-  <h3>💻 CSE Student | Java & DSA | Aspiring Software Engineer</h3>
+  <h3>💻 B.Tech CSE Student | Java & DSA | Aspiring Software Engineer</h3>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Learning+Java+and+Data+Structures;Solving+Problems+on+LeetCode;Building+Projects+and+Growing+Every+Day" alt="Typing introduction" />
 
@@ -67,7 +67,7 @@
 
 ### 🧠 Current Learning
 
-`Java OOP` · `Arrays` · `Strings` · `Sorting` · `Problem Solving`
+`Java OOP` · `Arrays` · `DSA` · `Linked List` · `DP`
 
 ---
 
