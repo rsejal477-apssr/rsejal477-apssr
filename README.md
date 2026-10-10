@@ -136,18 +136,6 @@ A healthcare chatbot web application built with a Spring Boot backend and a web-
 
 ---
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rsejal477-apssr&bg_color=0D1117&color=00F7FF&line=BC13FE&point=00FF9C&area=true&hide_border=true&custom_title=Sejal's%20Contribution%20Graph" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
-
 <!-- ================= GOALS ================= -->
 
 ## 🎯 Current Goals
