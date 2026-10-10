@@ -93,34 +93,32 @@
 
 <!-- ================= FEATURED PROJECTS ================= -->
 
+
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3>🏥 Healthcare Chatbot</h3>
-      <p>A healthcare chatbot web application built with a Java backend and web-based frontend.</p>
-      <p><b>Technologies:</b> Java · Spring Boot · HTML · CSS · JavaScript</p>
-      <a href="https://healthcare-chatbot-scsb.onrender.com/">
-        <img src="https://img.shields.io/badge/Live%20Demo-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live demo"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%">
-      <h3>🧩 Java DSA Practice</h3>
-      <p>A growing collection of Java solutions, coding exercises, and data structures and algorithms practice.</p>
-      <p><b>Technologies:</b> Java · Arrays · Strings · Sorting · Problem Solving</p>
-      <a href="https://github.com/rsejal477-apssr?tab=repositories">
-        <img src="https://img.shields.io/badge/Explore%20Repositories-BC13FE?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-      </a>
-    </td>
-  </tr>
-</table>
+### 🗺️ Roadmappee
 
-> 💡 Add links to the actual source-code repositories when they are available. Only list projects and technologies you can confidently explain.
+**Personalized Learning Roadmap Platform**
+
+A platform designed to help learners discover structured learning paths and organize their learning journey.
+
+🔗 [View Project](PASTE_YOUR_ROADMAPPEE_REPO_URL_HERE)
 
 ---
+
+### 🏥 Healthcare Chatbot
+
+**AI-Powered Healthcare Assistance System**
+
+A healthcare chatbot web application built with a Spring Boot backend and a web-based frontend to provide users with health-related information.
+
+🔗 [View Project](PASTE_YOUR_HEALTHCARE_REPO_URL_HERE)
+
+🔗 [Live Demo](https://healthcare-chatbot-scsb.onrender.com/)
+
+---
+
+
 
 <!-- ================= GITHUB STATS ================= -->
 
