@@ -96,13 +96,15 @@
 
 ## 🚀 Featured Projects
 
-### 🗺️ Roadmappee
+### 🗺️ Reverse Engineering Career Roadmap
 
 **Personalized Learning Roadmap Platform**
 
 A platform designed to help learners discover structured learning paths and organize their learning journey.
 
-🔗 [View Project](PASTE_YOUR_ROADMAPPEE_REPO_URL_HERE)
+🔗 [View Project](https://github.com/rsejal477-apssr/Reverse-Engineer-Career-Roadmap.git)
+
+🔗 [Live Demo](https://easecareer.aqua-vole-0188.chatgpt.site/)
 
 ---
 
@@ -112,7 +114,7 @@ A platform designed to help learners discover structured learning paths and orga
 
 A healthcare chatbot web application built with a Spring Boot backend and a web-based frontend to provide users with health-related information.
 
-🔗 [View Project](PASTE_YOUR_HEALTHCARE_REPO_URL_HERE)
+🔗 [View Project](https://github.com/rsejal477-apssr/Healthcare-ChatBot.git)
 
 🔗 [Live Demo](https://healthcare-chatbot-scsb.onrender.com/)
 
